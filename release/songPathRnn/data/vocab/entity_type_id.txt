@@ -1,0 +1,6 @@
+person	0
+user	1
+song	2
+type	3
+#PAD_TOKEN	4
+#UNK_ENTITY_TYPE	5

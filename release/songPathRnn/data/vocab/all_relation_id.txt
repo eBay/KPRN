@@ -1,0 +1,9 @@
+r1	0
+r2	1
+r3	2
+r4	3
+r5	4
+r6	5
+#UNK_RELATION	6
+#PAD_TOKEN	7
+#END_RELATION	8
