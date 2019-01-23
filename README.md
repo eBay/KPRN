@@ -2,7 +2,7 @@
 This is code related to the AAAI 2019 paper ["Explainable Reasoning over Knowledge Graphs for Recommendation."](https://arxiv.org/pdf/1811.04540.pdf). The code  makes extensive use of machine learning techniques, and will be useful for training and prediction of recommendation attributes of media, or other items as described in the paper.
 
 # Platform Requirements
-This code requires Python(2.7 or 3.5) and Lua. Please ensure the runtime environments for these are installed.
+This code requires Python(2.7 or 3.5) and Lua(5.3). Please ensure the runtime environments for these are installed.
 The details could be found in the readMe.pdf.
 
 # Steps to Build a Model File in Training Model & Steps to Make Predictions
