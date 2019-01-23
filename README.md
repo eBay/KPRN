@@ -3,6 +3,7 @@ This is code related to the AAAI 2019 paper ["Explainable Reasoning over Knowled
 
 # Platform Requirements
 This code requires Python and Lua. Please ensure the runtime environments for these are installed.
+The details could be found in the readMe.pdf.
 
 # Steps to Build a Model File in Training Model & Steps to Make Predictions
 The model details could be found through readMe.pdf.
